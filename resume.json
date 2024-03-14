@@ -1,0 +1,42 @@
+{
+    "profile_id": "AI-Eng-005",
+    "Name": "Sarah Lee",
+    "Email": "sarahlee@example.com",
+    "links": [],
+    "Summary": "AI engineer with expertise in data science and analytics.",
+    "Education": [
+        {
+            "Institution": "Data Science Institute",
+            "Degree": "Bachelor's",
+            "FieldOfStudy": "Data Science",
+            "StartDate": "2015",
+            "EndDate": "2019",
+            "Achievements": ["Data Science Competition Winner"]
+        }
+    ],
+    "Skills": [
+        {"SkillName": "Data Analysis", "Level": "Expert"},
+        {"SkillName": "Statistical Modeling", "Level": "Advanced"}
+    ],
+    "Projects": [
+        {
+            "ProjectName": "Predictive Analytics",
+            "StartDate": "2020",
+            "EndDate": "2021",
+            "Responsibilities": ["Data preprocessing", "Model evaluation"]
+        }
+    ],
+    "Experience": [
+        {
+            "CompanyName": "Data Insights",
+            "Role": "Data Scientist",
+            "Location": "Chicago",
+            "StartDate": "2019",
+            "EndDate": "Present",
+            "Responsibilities": ["Analyzing data trends", "Building predictive models"]
+        }
+    ],
+    "Activities": ["Contributed to data science blogs", "Participated in data hackathons"],
+    "Interests": ["Big Data", "Machine Learning"],
+    "AdditionalInformation": "Skilled in R and SQL"
+}

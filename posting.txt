@@ -1,0 +1,18 @@
+Are you passionate about developing perception algorithms to drive robot behavior? As an Atlas Perception Intern, you will join a world-class team of engineers and scientists focused on creating robust perception-driven manipulation policies for Atlas. We are seeking an intern to work on perception algorithms for visual odometry and mapping. You'll take on a research project advised by one of our senior research scientists that will allow you to deliver results onto hardware. Responsibilities will include participating in project ideation, implementing your ideas in our existing codebase, and working with the Atlas team to deploy your perception system on hardware.
+
+How you will make an impact:
+
+Create a visual odometry system that integrates inertial measurements and kinematic odometry.
+Write high-quality (documented, tested, maintainable) Python and C++ code.
+Lead design reviews and collaborate closely with members of the Atlas software team.
+Deploy and debug your code on Atlas.
+We are looking for:
+
+Actively pursuing a master's degree or Ph.D. in Computer Science, Machine Learning, Robotics, or a related field.
+Prior experience developing or modifying the optimization backed of feature-based visual odometry or SLAM methods.
+Experience with classical computer vision.
+Strong analytical and debug skills.
+Nice to have:
+
+Experience working with and contributing to large codebases.
+Experience working with robot hardware.
